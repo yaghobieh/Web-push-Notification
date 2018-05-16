@@ -9,6 +9,8 @@ const app = express();
 app.use(express.static(path.join(__dirname, 'client')));
 app.use(bodyParser.json());
 
+###for generate this two keys: ./node_modules/.bin/web-push generate-vapid-keys 
+
 let publicVapidKey = '****';
 let privateVapidKey = '****';
 
