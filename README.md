@@ -17,8 +17,4 @@ And run:
 npm start
 ```
 
-
-![JFalcon](https://commondatastorage.googleapis.com/easy/images/StaticLogo/10013848_1.jpg)
-
-
-[JFalcon!](https://www.jfalcon.net)
+Created by [JFalcon!](https://www.jfalcon.net)
