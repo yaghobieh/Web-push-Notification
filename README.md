@@ -18,3 +18,4 @@ npm start
 ```
 
 Created by [JFalcon!](https://www.jfalcon.net)
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](buymeacoff.ee/7EqZAUDN9)
